@@ -1,2 +1,2 @@
-# Android-Section1
-Section 1 - Android Studio &amp; GitHub
+# Android-Section 1
+Section 1 - Android Studio & GitHub
