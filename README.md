@@ -1,5 +1,4 @@
-# Android-Section 1
-Section 1 - Android Studio & GitHub
+# Android-Section 1: Android Studio & GitHub
 
 Tehtävä (1p):
 
