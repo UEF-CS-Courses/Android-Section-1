@@ -1,6 +1,6 @@
 # Android-Section 1: Android Studio & GitHub
 
-Tehtävä (1p):
+Tehtävä (10p):
 
 Luo Android Sovellus, joka sisältää TextView-komponentin ja Button-komponentin.
 
